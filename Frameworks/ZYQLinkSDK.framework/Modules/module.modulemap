@@ -1,0 +1,6 @@
+framework module ZYQLinkSDK {
+  umbrella header "ZYQLinkSDK.h"
+
+  export *
+  module * { export * }
+}
